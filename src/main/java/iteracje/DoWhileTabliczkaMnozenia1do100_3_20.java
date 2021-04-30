@@ -6,8 +6,15 @@ public class DoWhileTabliczkaMnozenia1do100_3_20 {
         int size = 10;
         int wiersze;
         int kolumny;
-
-
-
+        wiersze = 1;
+        do {
+            kolumny = 1;
+            do {
+                System.out.println(wiersze * kolumny + "\t");
+                kolumny++;
+            } while (kolumny <= size);
+            wiersze++;
+            System.out.println();
+        } while (wiersze <= size);
     }
 }

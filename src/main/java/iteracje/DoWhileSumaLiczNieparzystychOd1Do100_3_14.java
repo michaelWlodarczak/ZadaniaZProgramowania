@@ -1,6 +1,6 @@
 package iteracje;
 
-public class DoWhileSumaLiczNieparzystychOd1Do100_3_14 {
+public class  DoWhileSumaLiczNieparzystychOd1Do100_3_14 {
     public static void main(String[] args) {
         int x = 1;
         int suma = 0;

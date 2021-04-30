@@ -15,12 +15,12 @@ public class ForMaxIMinOd1Do99IObliczaSredniaZWylosowanychLiczb_3_16_ZLista {
 //todo dokonczyc
 
         Random r = new Random();
+        int n = 5;
         List<Integer> zbiorLiczb = new ArrayList<>();
 
 
-        for (int i = 0; i < zbiorLiczb.size(); i++) {
-            zbiorLiczb.add(5);
-            //zbiorLiczb.add(r.nextInt(100));
+        for (int i = 1; i <= n; i++) {
+            zbiorLiczb.add((int) (r.nextDouble() * 100));
         }
 
         System.out.println(zbiorLiczb);
