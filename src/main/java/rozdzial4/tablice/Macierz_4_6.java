@@ -2,7 +2,7 @@ package tablice;
 
 //ODWROCENIE MACIERZY! ! !
 
-//Program w tablicy 10 x 10 (macierz) umieszcza na przekątnej liczby 0 -9 , a poza przekatna - 0,
+//Program w tablicy 10 x 10 (macierz) umieszcza na przekątnej liczby 0 - 9 , a poza przekatna - 0,
 //Dodatkowo program oblicza sume elementow wyroznionych w tablicy tj. tych na przekatnej
 
 public class Macierz_4_6 {

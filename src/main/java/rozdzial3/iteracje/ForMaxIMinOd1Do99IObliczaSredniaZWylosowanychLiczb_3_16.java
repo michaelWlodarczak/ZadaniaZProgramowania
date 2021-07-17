@@ -23,6 +23,8 @@ public class ForMaxIMinOd1Do99IObliczaSredniaZWylosowanychLiczb_3_16 {
         max = min;
         suma += max;
 
+
+        //TODO - Przyjzec sie temu, czy na pewno dziala poprawnie, bo cos mi tu nie gra... ;/
         for (int i = 0; i < n; i++) {
             liczba = Math.round(100 * (r.nextDouble()));
             System.out.print(liczba + ", ");
@@ -30,7 +32,7 @@ public class ForMaxIMinOd1Do99IObliczaSredniaZWylosowanychLiczb_3_16 {
             if (liczba < min) min = liczba;
             suma += liczba;
         }
-        System.out.println("Max = " + max + "\nMin = " + min + "\nSuma = " + suma + "\nSrednia = " + suma / n);
+        System.out.println("\n" +"Max = " + max + "\nMin = " + min + "\nSuma = " + suma + "\nSrednia = " + suma / n);
     }
 }
 
