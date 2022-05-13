@@ -1,4 +1,4 @@
-package iteracje;
+package rozdzial3.iteracje;
 
 import java.util.ArrayList;
 import java.util.List;

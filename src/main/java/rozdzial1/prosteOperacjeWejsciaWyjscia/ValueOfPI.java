@@ -1,4 +1,4 @@
-package prosteOperacjeWejsciaWyjscia;
+package rozdzial1.prosteOperacjeWejsciaWyjscia;
 
 public class ValueOfPI {
     public static void main(String[] args) {

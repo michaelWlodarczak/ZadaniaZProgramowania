@@ -1,4 +1,4 @@
-package iteracje;
+package rozdzial3.iteracje;
 
 public class ForAdoZZdoA {
     public static void main(String[] args) {

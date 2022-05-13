@@ -1,4 +1,4 @@
-package forEach;
+package rozdzial4.forEach;
 
 /*
 Napisz program, ktory w tablicy jednowymairowej o nazwie 'dane'

@@ -1,4 +1,4 @@
-package iteracje;
+package rozdzial3.iteracje;
 
 public class WhileSumaLiczNieparzystychOd1Do100_3_15 {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package iteracje;
+package rozdzial3.iteracje;
 
 public class ForSumaLiczbNieparzystychOd1Do100_3_13 {
     public static void main(String[] args) {

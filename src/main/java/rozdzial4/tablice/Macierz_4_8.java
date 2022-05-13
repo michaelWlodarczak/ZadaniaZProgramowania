@@ -1,4 +1,4 @@
-package tablice;
+package rozdzial4.tablice;
 /*
 Dane sa dwie macierze 10x10 'a' i 'b' , 'a' wyglada jak poniezej, a 'b' zawiera same 0. Program powoduje, ze 'b' wyglada jak ponizej
 a: 0123456789  b: 0000000000
@@ -7,8 +7,6 @@ a: 0123456789  b: 0000000000
 
 
  */
-
-import java.util.Arrays;
 
 public class Macierz_4_8 {
     public static void main(String[] args) {

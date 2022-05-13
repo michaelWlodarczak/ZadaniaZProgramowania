@@ -1,4 +1,4 @@
-package tablice;
+package rozdzial4.tablice;
 
 //ODWROCENIE MACIERZY! ! !
 

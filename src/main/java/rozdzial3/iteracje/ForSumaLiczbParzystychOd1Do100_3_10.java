@@ -1,4 +1,4 @@
-package iteracje;
+package rozdzial3.iteracje;
 
 public class ForSumaLiczbParzystychOd1Do100_3_10 {
     public static void main(String[] args) {

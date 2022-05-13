@@ -1,4 +1,4 @@
-package iteracje;
+package rozdzial3.iteracje;
 
 public class WhileSumaLiczParzystychOd1Do100_3_12 {
     public static void main(String[] args) {

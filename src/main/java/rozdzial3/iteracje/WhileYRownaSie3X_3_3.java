@@ -1,4 +1,4 @@
-package iteracje;
+package rozdzial3.iteracje;
 
 public class WhileYRownaSie3X_3_3 {
     public static void main(String[] args) {

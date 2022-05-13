@@ -1,4 +1,4 @@
-package iteracje;
+package rozdzial3.iteracje;
 
 public class DoWhileSumaLiczParzystychOd1Do100_3_11 {
     public static void main(String[] args) {

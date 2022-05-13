@@ -1,4 +1,4 @@
-package iteracje;
+package rozdzial3.iteracje;
 
 public class WhileTabliczkaMnozenia1do100_3_21 {
     public static void main(String[] args) {

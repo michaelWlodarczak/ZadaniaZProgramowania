@@ -1,4 +1,4 @@
-package podejmujemyDecyzjeWProgramie;
+package rozdzial2.podejmujemyDecyzjeWProgramie;
 
 import java.io.IOException;
 import java.util.Scanner;

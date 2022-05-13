@@ -1,4 +1,4 @@
-package iteracje;
+package rozdzial3.iteracje;
 
 public class DoWhileLiczbyCalkowiteOd1Do20_3_5 {
     public static void main(String[] args) {

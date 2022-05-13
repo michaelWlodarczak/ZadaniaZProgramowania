@@ -1,4 +1,4 @@
-package prosteOperacjeWejsciaWyjscia;
+package rozdzial1.prosteOperacjeWejsciaWyjscia;
 
 import java.util.Scanner;
 

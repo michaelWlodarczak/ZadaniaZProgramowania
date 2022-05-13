@@ -1,4 +1,4 @@
-package iteracje;
+package rozdzial3.iteracje;
 
 public class DoWhileAdoZZdoA {
     public static void main(String[] args) {

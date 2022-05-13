@@ -1,4 +1,4 @@
-package prosteOperacjeWejsciaWyjscia;
+package rozdzial1.prosteOperacjeWejsciaWyjscia;
 
 /* program wypisuje pierwiastek z liczby Pi z dokladnoscia do 2 miejsc po przecinku
 zwrocic nalezy uwage na printf a nie println

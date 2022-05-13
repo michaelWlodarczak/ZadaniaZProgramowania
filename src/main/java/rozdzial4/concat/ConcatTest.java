@@ -1,4 +1,4 @@
-package concat;
+package rozdzial4.concat;
 
 import java.io.BufferedReader;
 import java.io.IOException;

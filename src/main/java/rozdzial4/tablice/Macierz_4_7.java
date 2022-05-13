@@ -1,4 +1,4 @@
-package tablice;
+package rozdzial4.tablice;
 
 //Program w zadeklarowanej teblicy dwuwymiarowej 10x10 umieszcza w pierwszej kolumnie liczby od 0 - 9
 //w drugiej kolumnie kwadraty tych liczb, natomiast w pozostalych 0.

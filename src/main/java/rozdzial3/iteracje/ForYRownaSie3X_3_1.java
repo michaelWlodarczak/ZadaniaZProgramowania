@@ -1,4 +1,4 @@
-package iteracje;
+package rozdzial3.iteracje;
 
 public class ForYRownaSie3X_3_1 {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package iteracje;
+package rozdzial3.iteracje;
 
 public class DoWhileSuma1Do100_3_8 {
     public static void main(String[] args) {

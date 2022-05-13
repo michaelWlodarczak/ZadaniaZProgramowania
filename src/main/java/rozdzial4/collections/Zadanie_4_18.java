@@ -1,4 +1,4 @@
-package collections;
+package rozdzial4.collections;
 
 import java.util.ArrayList;
 import java.util.Collection;
@@ -17,10 +17,10 @@ public class Zadanie_4_18 {
 
         System.out.println("List displayed in adding order: ");
         for (int i = 0; i < list.size(); i++) {
-            if (i<list.size()-1){
-                System.out.println(list.get(i)+",");
-            }else {
-                System.out.println(list.get(i)+".\n");
+            if (i < list.size() - 1) {
+                System.out.println(list.get(i) + ",");
+            } else {
+                System.out.println(list.get(i) + ".\n");
             }
         }
 
@@ -28,10 +28,10 @@ public class Zadanie_4_18 {
         System.out.println("Sorted list in alphabetical order: ");
         Collections.sort(list);
         for (int i = 0; i < list.size(); i++) {
-            if (i<list.size()-1){
-                System.out.println(list.get(i)+",");
-            }else {
-                System.out.println(list.get(i)+".\n");
+            if (i < list.size() - 1) {
+                System.out.println(list.get(i) + ",");
+            } else {
+                System.out.println(list.get(i) + ".\n");
             }
         }
 
@@ -40,8 +40,7 @@ public class Zadanie_4_18 {
         list.add("Fifonż");
         System.out.println(list);
         Collections.sort(list);
-        System.out.println("\nSorted list once again: "+"\n"+list);
-
+        System.out.println("\nSorted list once again: " + "\n" + list);
 
     }
 }

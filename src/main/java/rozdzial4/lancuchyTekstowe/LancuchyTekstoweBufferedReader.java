@@ -1,4 +1,4 @@
-package lancuchyTekstowe;
+package rozdzial4.lancuchyTekstowe;
 
 import java.io.BufferedReader;
 import java.io.IOException;

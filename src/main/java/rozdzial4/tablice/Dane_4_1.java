@@ -1,4 +1,4 @@
-package tablice;
+package rozdzial4.tablice;
 
 //Napisz program ktory w 10-elementowej tablicy jednowymiarowej o nazwie "dane"
 //umieszcza liczby od 0 - 9

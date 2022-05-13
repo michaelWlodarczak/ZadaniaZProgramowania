@@ -1,4 +1,4 @@
-package iteracje;
+package rozdzial3.iteracje;
 
 public class ForSuma1Do100_3_7 {
     public static void main(String[] args) {

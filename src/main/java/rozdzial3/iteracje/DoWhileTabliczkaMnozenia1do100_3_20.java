@@ -1,4 +1,4 @@
-package iteracje;
+package rozdzial3.iteracje;
 
 public class DoWhileTabliczkaMnozenia1do100_3_20 {
     public static void main(String[] args) {

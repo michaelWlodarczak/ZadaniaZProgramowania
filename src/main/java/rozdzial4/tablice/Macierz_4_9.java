@@ -1,4 +1,4 @@
-package tablice;
+package rozdzial4.tablice;
 
 /*
 Dane sa 3 macierze 10x10, 'a','b' i 'c'.
